@@ -6,7 +6,7 @@ public class VersionedVector<T> extends Vector<T> implements VersionAware {
 
     private static final String CLASS_NAME = VersionedVector.class.getSimpleName();
 
-    private static final String VERSION = "1.0";
+    private static final String VERSION = "2.0";
 
     public VersionedVector() {
         super();
